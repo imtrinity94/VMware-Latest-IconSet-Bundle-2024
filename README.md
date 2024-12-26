@@ -111,8 +111,6 @@ AVI Kubernetes Operator
 Edge Compute Stack
 
 SASE Orchestrator
-Sorry! Couldn’t find an HD icon.
-
 
 Google Cloud VMware Engine
 
@@ -121,8 +119,6 @@ Data Services Manager
 Advanced Security
 
 Edge Orchestration
-Sorry! Couldn’t find an HD icon.
-
 
 Harbor
 
